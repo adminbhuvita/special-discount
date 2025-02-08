@@ -46,3 +46,4 @@ const SpecialDiscount = () => {
   );
 };
 
+export default SpecialDiscount;
