@@ -3,10 +3,10 @@
   
   export default {
     title: "Component/SpecialDiscount",
-    component: SpecialDiscount,
+    component: SpecialDisount,
   };
   
   const Template = (args) => <SpecialDiscount {...args} />;
   
   export const Default = Template.bind({});
-  Default.args = {};
+  Default.arg = {};
